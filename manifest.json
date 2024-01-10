@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"id": "Minnow.DLGEFixes",
 	"name": "Voice Fixes",
 	"description": "A collection of assorted fixes to NPC voices, both scripted and otherwise.",

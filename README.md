@@ -6,4 +6,4 @@ A collection of assorted fixes to NPC voices, both scripted and otherwise.
 
 ---
 
-`Minnow.DLGEFixes` v0.2.0, by Minnow. This README was automatically generated from the mod's manifest.
+`Minnow.DLGEFixes` v0.3.0, by Minnow. This README was automatically generated from the mod's manifest.
